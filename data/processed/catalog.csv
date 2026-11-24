@@ -1,0 +1,21 @@
+destination_id,destination_name,area,destination_type,heritage_pilgrimage,trekking_hiking,wildlife_birdwatching,boating_water,adventure_sports,specific_activities,popularity_score
+YS001,Pashupatinath,Kathmandu,Temple,1,0,0,0,0,temple visits; pilgrimage,92.1
+YS002,Boudhanath,Kathmandu,Stupa,1,0,0,0,0,heritage visits; pilgrimage,88.0
+YS003,Swayambhunath,Kathmandu,Stupa,1,1,0,0,0,heritage visits; walking,85.8
+YS004,Kathmandu Durbar Square,Kathmandu,Heritage site,1,0,0,0,0,heritage walks,90.3
+YS005,Garden of Dreams,Kathmandu,Garden,1,0,0,0,0,garden visits; historical architecture,60.0
+YS006,Patan Durbar Square,Lalitpur,Heritage site,1,0,0,0,0,heritage walks,82.2
+YS007,Patan Museum,Lalitpur,Museum,1,0,0,0,0,museum visits,58.2
+YS008,Golden Temple,Lalitpur,Temple,1,0,0,0,0,heritage visits; pilgrimage,55.3
+YS009,Bhaktapur Durbar Square,Bhaktapur,Heritage site,1,0,0,0,0,heritage walks,84.1
+YS010,Nyatapola Temple,Bhaktapur,Temple,1,0,0,0,0,heritage visits,65.1
+YS011,Phewa Lake,Pokhara,Lake,0,0,0,1,0,boating,91.3
+YS012,Begnas Lake,Pokhara,Lake,0,0,0,1,0,boating,48.1
+YS013,Sarangkot,Pokhara,Viewpoint,0,1,0,0,1,hiking; paragliding,80.3
+YS014,World Peace Pagoda,Pokhara,Pagoda,1,1,0,0,0,pilgrimage; hiking,75.8
+YS015,Devi's Fall,Pokhara,Waterfall,0,1,0,0,0,walking; sightseeing,63.7
+YS016,Annapurna Base Camp,Mountain regions,Base camp,0,1,0,0,0,trekking,85.1
+YS017,Everest Base Camp,Mountain regions,Base camp,0,1,0,0,0,trekking,92.9
+YS018,Namche Bazaar,Mountain regions,Mountain town,1,1,0,0,0,trekking; cultural visits,77.8
+YS019,Langtang Valley,Mountain regions,Valley,0,1,0,0,0,trekking,56.5
+YS020,Mardi Himal Base Camp,Mountain regions,Base camp,0,1,0,0,0,trekking,61.6

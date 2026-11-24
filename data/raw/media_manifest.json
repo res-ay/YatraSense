@@ -1,0 +1,562 @@
+{
+  "YS004": {
+    "latitude": 27.70415,
+    "longitude": 85.30647,
+    "coordinate_source": "https://en.wikipedia.org/wiki/Kathmandu_Durbar_Square",
+    "photos": [
+      {
+        "file": "destinations/YS004_3.jpg",
+        "caption": "Historic Pagoda Style Architecture in Kathmandu Durbar Square-IMG 4069",
+        "credit": "Bijay Chaurasia",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Historic_Pagoda_Style_Architecture_in_Kathmandu_Durbar_Square-IMG_4069.jpg"
+      },
+      {
+        "file": "destinations/YS004_1.jpg",
+        "caption": "Three saddhus at Kathmandu Durbar Square",
+        "credit": "Markus Koljonen (Dilaudid)",
+        "license": "CC BY-SA 3.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Three_saddhus_at_Kathmandu_Durbar_Square.jpg"
+      },
+      {
+        "file": "destinations/YS004_2.jpg",
+        "caption": "Saddhu at Durbar Square, Kathmandu (edited)",
+        "credit": "Original:  Anton Gutmann\nDerivative work:  Aristeas",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Saddhu_at_Durbar_Square,_Kathmandu_(edited).jpg"
+      }
+    ]
+  },
+  "YS001": {
+    "latitude": 27.70972222,
+    "longitude": 85.34861111,
+    "coordinate_source": "https://en.wikipedia.org/wiki/Pashupatinath_Temple",
+    "photos": [
+      {
+        "file": "destinations/YS001_1.jpg",
+        "caption": "The Pashupatinath Temple 27",
+        "credit": "Nabin K. Sapkota",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:The_Pashupatinath_Temple_27.jpg"
+      },
+      {
+        "file": "destinations/YS001_2.jpg",
+        "caption": "Sadhu during Maha Shivaratri Celebrations at Pashupatinath Temple, Kathmandu, Nepal-070A6901",
+        "credit": "Bijay Chaurasia",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Sadhu_during_Maha_Shivaratri_Celebrations_at_Pashupatinath_Temple,_Kathmandu,_Nepal-070A6901.jpg"
+      },
+      {
+        "file": "destinations/YS001_3.jpg",
+        "caption": "2023 January night aarti at Pashupatinath Temple, Kathmandu 02",
+        "credit": "Chainwit.",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:2023_January_night_aarti_at_Pashupatinath_Temple,_Kathmandu_02.jpg"
+      }
+    ]
+  },
+  "YS003": {
+    "latitude": 27.715,
+    "longitude": 85.29,
+    "coordinate_source": "https://en.wikipedia.org/wiki/Swayambhunath",
+    "photos": [
+      {
+        "file": "destinations/YS003_1.jpg",
+        "caption": "Swayambhunath temple - an ancient religious architecture of Nepal",
+        "credit": "Nirmal Dulal",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Swayambhunath_temple_-_an_ancient_religious_architecture_of_Nepal.jpg"
+      },
+      {
+        "file": "destinations/YS003_2.jpg",
+        "caption": "Swayambhunath Stupa -Kathmandu Nepal-0336",
+        "credit": "Bijay Chaurasia",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Swayambhunath_Stupa_-Kathmandu_Nepal-0336.jpg"
+      },
+      {
+        "file": "destinations/YS003_3.jpg",
+        "caption": "Folklore items selling at Swayambhunath Mahachaitya, Kathmandu 03",
+        "credit": "Suyash Dwivedi",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Folklore_items_selling_at_Swayambhunath_Mahachaitya,_Kathmandu_03.jpg"
+      }
+    ]
+  },
+  "YS002": {
+    "latitude": 27.72138889,
+    "longitude": 85.36194444,
+    "coordinate_source": "https://en.wikipedia.org/wiki/Boudha_Stupa",
+    "photos": [
+      {
+        "file": "destinations/YS002_1.jpg",
+        "caption": "Boudha Stupa 2018 04",
+        "credit": "Nabin K. Sapkota",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Boudha_Stupa_2018_04.jpg"
+      },
+      {
+        "file": "destinations/YS002_2.jpg",
+        "caption": "Pilgrims at Boudhanath 01",
+        "credit": "Bernard Gagnon",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Pilgrims_at_Boudhanath_01.jpg"
+      },
+      {
+        "file": "destinations/YS002_3.jpg",
+        "caption": "Boudhanath Buddhist stup panorama",
+        "credit": "Suyash.dwivedi",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Boudhanath_Buddhist_stup_panorama.jpg"
+      }
+    ]
+  },
+  "YS012": {
+    "latitude": 28.17394444,
+    "longitude": 84.09733333,
+    "coordinate_source": "https://en.wikipedia.org/wiki/Begnas_Lake",
+    "photos": [
+      {
+        "file": "destinations/YS012_1.jpg",
+        "caption": "Begnas Lake, Pokhara, Kaski",
+        "credit": "Shadow Ayush",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Begnas_Lake,_Pokhara,_Kaski.jpg"
+      },
+      {
+        "file": "destinations/YS012_2.jpg",
+        "caption": "Begnas lake side",
+        "credit": "Paritosh chaudhary",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Begnas_lake_side.jpg"
+      },
+      {
+        "file": "destinations/YS012_3.jpg",
+        "caption": "Begnas lake in nepal",
+        "credit": "Sajanmndr",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Begnas_lake_in_nepal.jpg"
+      }
+    ]
+  },
+  "YS011": {
+    "latitude": 28.2142,
+    "longitude": 83.9472,
+    "coordinate_source": "https://en.wikipedia.org/wiki/Phewa_Lake",
+    "photos": [
+      {
+        "file": "destinations/YS011_1.jpg",
+        "caption": "Sun Set over Phewa Lake",
+        "credit": "Sanu N",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Sun_Set_over_Phewa_Lake.jpg"
+      },
+      {
+        "file": "destinations/YS011_2.jpg",
+        "caption": "Phewa Lake of Pokhara city",
+        "credit": "Iamavinashk",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Phewa_Lake_of_Pokhara_city.jpg"
+      },
+      {
+        "file": "destinations/YS011_3.jpg",
+        "caption": "Phewa Lake (\u092b\u0947\u0935\u093e \u0924\u093e\u0932) Sunset View 2158",
+        "credit": "Bijay chaurasia",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Phewa_Lake_(%E0%A4%AB%E0%A5%87%E0%A4%B5%E0%A4%BE_%E0%A4%A4%E0%A4%BE%E0%A4%B2)_Sunset_View_2158.JPG"
+      }
+    ]
+  },
+  "YS009": {
+    "latitude": 27.672027,
+    "longitude": 85.428108,
+    "coordinate_source": "https://en.wikipedia.org/wiki/Bhaktapur_Durbar_Square",
+    "photos": [
+      {
+        "file": "destinations/YS009_1.jpg",
+        "caption": "Bhaktapur Durbar Square 2018 13",
+        "credit": "Nabin K. Sapkota",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Bhaktapur_Durbar_Square_2018_13.jpg"
+      },
+      {
+        "file": "destinations/YS009_2.jpg",
+        "caption": "Bhaktapur Durbar Square 7",
+        "credit": "Janak Bhatta",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Bhaktapur_Durbar_Square_7.jpg"
+      },
+      {
+        "file": "destinations/YS009_3.jpg",
+        "caption": "Bhaktapur Durbar Square 5",
+        "credit": "Janak Bhatta",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Bhaktapur_Durbar_Square_5.jpg"
+      }
+    ]
+  },
+  "YS010": {
+    "latitude": 27.67138889,
+    "longitude": 85.42861111,
+    "coordinate_source": "https://en.wikipedia.org/wiki/Nyatapola_Temple",
+    "photos": [
+      {
+        "file": "destinations/YS010_1.jpg",
+        "caption": "Bisket Jatra festival 2018 at the Nyatapola temple, Bhaktapur",
+        "credit": "Nrik kiran",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Bisket_Jatra_festival_2018_at_the_Nyatapola_temple,_Bhaktapur.jpg"
+      },
+      {
+        "file": "destinations/YS010_2.jpg",
+        "caption": "Epigraph of the Nyatapola Temple, Bhaktapur",
+        "credit": "Nyeta",
+        "license": "CC BY 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Epigraph_of_the_Nyatapola_Temple,_Bhaktapur.jpg"
+      },
+      {
+        "file": "destinations/YS010_3.jpg",
+        "caption": "Nyatapola painting",
+        "credit": "Nyeta",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Nyatapola_painting.jpg"
+      }
+    ]
+  },
+  "YS020": {
+    "latitude": 28.477,
+    "longitude": 83.93,
+    "coordinate_source": "Approximate visitor map point; review before navigating",
+    "photos": [
+      {
+        "file": "destinations/YS020_1.jpg",
+        "caption": "Mardi Himal basecamp panorama",
+        "credit": "Nrik kiran",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Mardi_Himal_basecamp_panorama.jpg"
+      },
+      {
+        "file": "destinations/YS020_2.jpg",
+        "caption": "Mardi Himal Base Camp Footprint",
+        "credit": "Regmis680",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Mardi_Himal_Base_Camp_Footprint.jpg"
+      },
+      {
+        "file": "destinations/YS020_3.jpg",
+        "caption": "Machhapuchchhre Himal (Fishtail) near Mardi Himal Base Camp with no Snow",
+        "credit": "Kuber Rana Magar",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Machhapuchchhre_Himal_(Fishtail)_near_Mardi_Himal_Base_Camp_with_no_Snow.jpg"
+      }
+    ]
+  },
+  "YS017": {
+    "latitude": 28.0026,
+    "longitude": 86.8528,
+    "coordinate_source": "Approximate visitor map point; review before navigating",
+    "photos": [
+      {
+        "file": "destinations/YS017_1.jpg",
+        "caption": "20110810 North Face of Everest Tibet China Panoramic",
+        "credit": "User:Ggia",
+        "license": "CC BY-SA 3.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:20110810_North_Face_of_Everest_Tibet_China_Panoramic.jpg"
+      },
+      {
+        "file": "destinations/YS017_2.jpg",
+        "caption": "Mount Everest's west shoulder, Mt. Everest, Mt. Nuptse near EBC, Nepal",
+        "credit": "Rohit Sharma",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Mount_Everest%27s_west_shoulder,_Mt._Everest,_Mt._Nuptse_near_EBC,_Nepal.jpg"
+      },
+      {
+        "file": "destinations/YS017_3.jpg",
+        "caption": "Way to everest base camp",
+        "credit": "Babin Dulal",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Way_to_everest_base_camp.jpg"
+      }
+    ]
+  },
+  "YS019": {
+    "latitude": 28.211,
+    "longitude": 85.567,
+    "coordinate_source": "Approximate visitor map point; review before navigating",
+    "photos": [
+      {
+        "file": "destinations/YS019_1.jpg",
+        "caption": "Langtang Range from Pangsanglaa",
+        "credit": "Bibek010",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Langtang_Range_from_Pangsanglaa.jpg"
+      },
+      {
+        "file": "destinations/YS019_2.jpg",
+        "caption": "Langtang Valley Rasuwa",
+        "credit": "Pustam.EGR",
+        "license": "CC BY 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Langtang_Valley_Rasuwa.jpg"
+      },
+      {
+        "file": "destinations/YS019_3.jpg",
+        "caption": "Chorten in the Langtang valley 03",
+        "credit": "Rsh2020",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Chorten_in_the_Langtang_valley_03.jpg"
+      }
+    ]
+  },
+  "YS018": {
+    "latitude": 27.81666667,
+    "longitude": 86.71666667,
+    "coordinate_source": "https://en.wikipedia.org/wiki/Namche_Bazaar",
+    "photos": [
+      {
+        "file": "destinations/YS018_1.jpg",
+        "caption": "Namche Bazaar Nepal",
+        "credit": "stevehicks",
+        "license": "CC BY 2.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Namche_Bazaar_Nepal.jpg"
+      },
+      {
+        "file": "destinations/YS018_2.jpg",
+        "caption": "Namche Bazaar facing Kongde Ri towards west",
+        "credit": "Nirojsedhai",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Namche_Bazaar_facing_Kongde_Ri_towards_west.jpg"
+      },
+      {
+        "file": "destinations/YS018_3.jpg",
+        "caption": "Namche Bazaar, Mountains, Nepal",
+        "credit": "Vyacheslav Argenberg",
+        "license": "CC BY 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Namche_Bazaar,_Mountains,_Nepal.jpg"
+      }
+    ]
+  },
+  "YS005": {
+    "latitude": 27.714,
+    "longitude": 85.3145,
+    "coordinate_source": "Approximate visitor map point; review before navigating",
+    "photos": [
+      {
+        "file": "destinations/YS005_1.jpg",
+        "caption": "Kathmandu-Garden of Dreams-04-Amphitheater-2013-gje",
+        "credit": "Gerd Eichmann",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Kathmandu-Garden_of_Dreams-04-Amphitheater-2013-gje.jpg"
+      },
+      {
+        "file": "destinations/YS005_2.jpg",
+        "caption": "Kathmandu-Garden of Dreams-68-Streifenhoernchen-2015-gje",
+        "credit": "Gerd Eichmann",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Kathmandu-Garden_of_Dreams-68-Streifenhoernchen-2015-gje.jpg"
+      },
+      {
+        "file": "destinations/YS005_3.jpg",
+        "caption": "Kathmandu-Garden of Dreams-36-Baumfarn-2013-gje",
+        "credit": "Gerd Eichmann",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Kathmandu-Garden_of_Dreams-36-Baumfarn-2013-gje.jpg"
+      }
+    ]
+  },
+  "YS006": {
+    "latitude": 27.6734,
+    "longitude": 85.325,
+    "coordinate_source": "https://en.wikipedia.org/wiki/Patan_Durbar_Square",
+    "photos": [
+      {
+        "file": "destinations/YS006_3.jpg",
+        "caption": "Entrance Wall of Patan museum-Patan Durbar Square-2053",
+        "credit": "Bijay Chaurasia",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Entrance_Wall_of_Patan_museum-Patan_Durbar_Square-2053.jpg"
+      },
+      {
+        "file": "destinations/YS006_1.jpg",
+        "caption": "Big Bell, Patan Durbar Square in the evening",
+        "credit": "Shadow Ayush",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Big_Bell,_Patan_Durbar_Square_in_the_evening.jpg"
+      },
+      {
+        "file": "destinations/YS006_2.jpg",
+        "caption": "Old Nepali Newar Peoples wearing traditional hat- Dhaka Topi-Patan Durbar Square-2061",
+        "credit": "Bijay Chaurasia",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Old_Nepali_Newar_Peoples_wearing_traditional_hat-_Dhaka_Topi-Patan_Durbar_Square-2061.jpg"
+      }
+    ]
+  },
+  "YS007": {
+    "latitude": 27.6730952,
+    "longitude": 85.325638,
+    "coordinate_source": "https://en.wikipedia.org/wiki/Patan_Museum",
+    "photos": [
+      {
+        "file": "destinations/YS007_1.jpg",
+        "caption": "Woman Sitting at the Entrance of the Patan Museum-IMG 4106",
+        "credit": "Bijay Chaurasia",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Woman_Sitting_at_the_Entrance_of_the_Patan_Museum-IMG_4106.jpg"
+      },
+      {
+        "file": "destinations/YS007_2.jpg",
+        "caption": "Entrance Wall of Patan museum-Patan Durbar Square-2053",
+        "credit": "Bijay Chaurasia",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Entrance_Wall_of_Patan_museum-Patan_Durbar_Square-2053.jpg"
+      },
+      {
+        "file": "destinations/YS007_3.jpg",
+        "caption": "Patan museum-Patan Durbar Square-2054",
+        "credit": "Bijay Chaurasia",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Patan_museum-Patan_Durbar_Square-2054.jpg"
+      }
+    ]
+  },
+  "YS008": {
+    "latitude": 27.67533333,
+    "longitude": 85.32466667,
+    "coordinate_source": "https://en.wikipedia.org/wiki/Hiranya_Varna_Mahavihar",
+    "photos": [
+      {
+        "file": "destinations/YS008_1.jpg",
+        "caption": "Hiranya Varna Mahavihar Main Temple",
+        "credit": "076BCT.SUMIT",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Hiranya_Varna_Mahavihar_Main_Temple.jpg"
+      },
+      {
+        "file": "destinations/YS008_2.jpg",
+        "caption": "Golden Temple (Hiranya Varna Mahavihar)",
+        "credit": "Megh shakya",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Golden_Temple_(Hiranya_Varna_Mahavihar).jpg"
+      },
+      {
+        "file": "destinations/YS008_3.jpg",
+        "caption": "At Hiranya Varna Mahavihar (105478739)",
+        "credit": "Daniele Zanni",
+        "license": "CC BY 3.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:At_Hiranya_Varna_Mahavihar_(105478739).jpeg"
+      }
+    ]
+  },
+  "YS013": {
+    "latitude": 28.24166667,
+    "longitude": 83.96666667,
+    "coordinate_source": "https://en.wikipedia.org/wiki/Sarangkot",
+    "photos": [
+      {
+        "file": "destinations/YS013_1.jpg",
+        "caption": "Sarangkot Pokhara",
+        "credit": "Rahul Kumar Shakya",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Sarangkot_Pokhara.jpg"
+      },
+      {
+        "file": "destinations/YS013_2.jpg",
+        "caption": "Sarangkot,Pokhara,Nepal",
+        "credit": "Saddam Hussain Ansari",
+        "license": "CC BY 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Sarangkot,Pokhara,Nepal.jpg"
+      },
+      {
+        "file": "destinations/YS013_3.jpg",
+        "caption": "Sarankot sunrise (4)",
+        "credit": "Rahul Kumar Shakya",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Sarankot_sunrise_(4).jpg"
+      }
+    ]
+  },
+  "YS014": {
+    "latitude": 28.2015,
+    "longitude": 83.9449,
+    "coordinate_source": "Approximate visitor map point; review before navigating",
+    "photos": [
+      {
+        "file": "destinations/YS014_2.jpg",
+        "caption": "World Peace Pagoda ,. Pokhara",
+        "credit": "Nabin845",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:World_Peace_Pagoda_,._Pokhara.jpg"
+      },
+      {
+        "file": "destinations/YS014_1.jpg",
+        "caption": "World Peace Pagoda Pokhara",
+        "credit": "ChillionaireRohitgiri",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:World_Peace_Pagoda_Pokhara.jpg"
+      },
+      {
+        "file": "destinations/YS014_3.jpg",
+        "caption": "World Peace Pagoda, Pokhara by Y7",
+        "credit": "Yallu007",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:World_Peace_Pagoda,_Pokhara_by_Y7.jpg"
+      }
+    ]
+  },
+  "YS015": {
+    "latitude": 28.1901,
+    "longitude": 83.9592,
+    "coordinate_source": "Approximate visitor map point; review before navigating",
+    "photos": [
+      {
+        "file": "destinations/YS015_1.jpg",
+        "caption": "Davis Falls,Pokhara",
+        "credit": "Saddam Hussain Ansari",
+        "license": "CC BY 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Davis_Falls,Pokhara.jpg"
+      },
+      {
+        "file": "destinations/YS015_2.jpg",
+        "caption": "Davis Falls-Pokhara 01",
+        "credit": "Sabina Bajracharya",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Davis_Falls-Pokhara_01.jpg"
+      },
+      {
+        "file": "destinations/YS015_3.jpg",
+        "caption": "Davis Falls-Pokhara 03",
+        "credit": "Sabina Bajracharya",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Davis_Falls-Pokhara_03.jpg"
+      }
+    ]
+  },
+  "YS016": {
+    "latitude": 28.5305,
+    "longitude": 83.878,
+    "coordinate_source": "Approximate visitor map point; review before navigating",
+    "photos": [
+      {
+        "file": "destinations/YS016_1.jpg",
+        "caption": "Annapurna Massif-IMG 5221-Pano",
+        "credit": "Bijay Chaurasia",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Annapurna_Massif-IMG_5221-Pano.jpg"
+      },
+      {
+        "file": "destinations/YS016_2.jpg",
+        "caption": "Mt. Moditse as seen from Annapurna Base Camp-5324",
+        "credit": "Bijay Chaurasia",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Mt._Moditse_as_seen_from_Annapurna_Base_Camp-5324.jpg"
+      },
+      {
+        "file": "destinations/YS016_3.jpg",
+        "caption": "Annapurna Base Camp (9)",
+        "credit": "Bijaya2043",
+        "license": "CC BY-SA 3.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Annapurna_Base_Camp_(9).JPG"
+      }
+    ]
+  }
+}

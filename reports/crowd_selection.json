@@ -1,0 +1,12 @@
+{
+  "model": "RandomForest",
+  "criterion": "highest validation accuracy; macro F1 tie-break",
+  "validation": {
+    "model": "RandomForest",
+    "accuracy": 0.7708333333333334,
+    "macro_f1": 0.764700472173418,
+    "balanced_accuracy": 0.7519992147110791
+  },
+  "test_used_for_selection": false,
+  "synthetic": true
+}

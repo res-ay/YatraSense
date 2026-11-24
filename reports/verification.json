@@ -1,0 +1,13 @@
+{
+  "django_check": "passed",
+  "backend_integration_tests": 7,
+  "backend_tests_passed": true,
+  "frontend_typecheck_and_production_build": "passed",
+  "notebooks_executed": 15,
+  "photos_decoded": 60,
+  "sqlite_seeded_destinations": 20,
+  "packaged_user_accounts": 0,
+  "crowd_test_accuracy": 0.725,
+  "recommendation_test_accuracy": 0.7590277777777777,
+  "street_tile_limit": "Live street tiles could not be fetched in the build browser; geographic fallback verified. Internet is required for OSM tiles."
+}

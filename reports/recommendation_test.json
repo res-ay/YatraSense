@@ -1,0 +1,119 @@
+{
+  "synthetic": true,
+  "test_years": [
+    2024,
+    2025
+  ],
+  "training_years": [
+    2016,
+    2022
+  ],
+  "selection": {
+    "model": "RandomForest",
+    "criterion": "highest validation accuracy; macro F1 tie-break",
+    "validation": {
+      "model": "RandomForest",
+      "accuracy": 0.7784722222222222,
+      "macro_f1": 0.6637974001678963,
+      "balanced_accuracy": 0.6466163122106305,
+      "ndcg_at_5": 0.4940821374058268,
+      "precision_at_5": 0.3999999999999999,
+      "requests": 72,
+      "ndcg_requests_with_positive": 70,
+      "roc_auc": 0.7553887638696213
+    },
+    "test_used_for_selection": false,
+    "synthetic": true
+  },
+  "test": {
+    "accuracy": 0.7590277777777777,
+    "macro_f1": 0.6482949682418127,
+    "balanced_accuracy": 0.6351765653075696,
+    "ndcg_at_5": 0.4906110879132955,
+    "precision_at_5": 0.40138888888888885,
+    "requests": 144,
+    "ndcg_requests_with_positive": 139,
+    "roc_auc": 0.7588184902595383
+  },
+  "classification_report": {
+    "0": {
+      "precision": 0.7806981519507187,
+      "recall": 0.9223677826297914,
+      "f1-score": 0.8456405693950177,
+      "support": 2061.0
+    },
+    "1": {
+      "precision": 0.6404494382022472,
+      "recall": 0.34798534798534797,
+      "f1-score": 0.4509493670886076,
+      "support": 819.0
+    },
+    "accuracy": 0.7590277777777777,
+    "macro avg": {
+      "precision": 0.710573795076483,
+      "recall": 0.6351765653075696,
+      "f1-score": 0.6482949682418127,
+      "support": 2880.0
+    },
+    "weighted avg": {
+      "precision": 0.7408149239784971,
+      "recall": 0.7590277777777777,
+      "f1-score": 0.7334002587391323,
+      "support": 2880.0
+    }
+  },
+  "confusion_matrix": [
+    [
+      1901,
+      160
+    ],
+    [
+      534,
+      285
+    ]
+  ],
+  "class_order": [
+    0,
+    1
+  ],
+  "features": [
+    "destination_id",
+    "area",
+    "popularity_score",
+    "temperature_mean_c",
+    "precipitation_mm_month",
+    "wind_speed_kmh_mean",
+    "month_sin",
+    "month_cos",
+    "heritage_pilgrimage",
+    "trekking_hiking",
+    "wildlife_birdwatching",
+    "boating_water",
+    "adventure_sports",
+    "customer_heritage_pilgrimage",
+    "customer_trekking_hiking",
+    "customer_wildlife_birdwatching",
+    "customer_boating_water",
+    "customer_adventure_sports",
+    "activity_match",
+    "weather_comfort",
+    "customer_crowd_preference",
+    "estimated_busyness",
+    "crowd_match"
+  ],
+  "excluded_features": [
+    "visitor_count",
+    "busyness_label (target only)",
+    "row_id",
+    "request_id",
+    "dataset_split",
+    "customer_chose_destination (target only)"
+  ],
+  "accuracy_above_80": false,
+  "limitations": [
+    "Synthetic generator performance; not real crowd or customer validation.",
+    "Monthly estimates, not exact daily occupancy.",
+    "New admin destinations use area-level model encoding; unvalidated on unseen places.",
+    "Demo weather uses training-only monthly averages, not a live forecast."
+  ]
+}

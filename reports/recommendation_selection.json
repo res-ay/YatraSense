@@ -1,0 +1,17 @@
+{
+  "model": "RandomForest",
+  "criterion": "highest validation accuracy; macro F1 tie-break",
+  "validation": {
+    "model": "RandomForest",
+    "accuracy": 0.7784722222222222,
+    "macro_f1": 0.6637974001678963,
+    "balanced_accuracy": 0.6466163122106305,
+    "ndcg_at_5": 0.4940821374058268,
+    "precision_at_5": 0.3999999999999999,
+    "requests": 72,
+    "ndcg_requests_with_positive": 70,
+    "roc_auc": 0.7553887638696213
+  },
+  "test_used_for_selection": false,
+  "synthetic": true
+}

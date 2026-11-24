@@ -1,0 +1,107 @@
+{
+  "synthetic": true,
+  "test_years": [
+    2024,
+    2025
+  ],
+  "training_years": [
+    2016,
+    2022
+  ],
+  "selection": {
+    "model": "RandomForest",
+    "criterion": "highest validation accuracy; macro F1 tie-break",
+    "validation": {
+      "model": "RandomForest",
+      "accuracy": 0.7708333333333334,
+      "macro_f1": 0.764700472173418,
+      "balanced_accuracy": 0.7519992147110791
+    },
+    "test_used_for_selection": false,
+    "synthetic": true
+  },
+  "test": {
+    "accuracy": 0.725,
+    "macro_f1": 0.7181138341153402,
+    "balanced_accuracy": 0.7138158078698211
+  },
+  "classification_report": {
+    "High": {
+      "precision": 0.6666666666666666,
+      "recall": 0.693069306930693,
+      "f1-score": 0.6796116504854369,
+      "support": 101.0
+    },
+    "Low": {
+      "precision": 0.7899159663865546,
+      "recall": 0.6911764705882353,
+      "f1-score": 0.7372549019607844,
+      "support": 136.0
+    },
+    "Medium": {
+      "precision": 0.71875,
+      "recall": 0.757201646090535,
+      "f1-score": 0.7374749498997996,
+      "support": 243.0
+    },
+    "accuracy": 0.725,
+    "macro avg": {
+      "precision": 0.7251108776844072,
+      "recall": 0.7138158078698211,
+      "f1-score": 0.7181138341153402,
+      "support": 480.0
+    },
+    "weighted avg": {
+      "precision": 0.7279544890873015,
+      "recall": 0.725,
+      "f1-score": 0.7252372003986398,
+      "support": 480.0
+    }
+  },
+  "confusion_matrix": [
+    [
+      94,
+      42,
+      0
+    ],
+    [
+      24,
+      184,
+      35
+    ],
+    [
+      1,
+      30,
+      70
+    ]
+  ],
+  "class_order": [
+    "Low",
+    "Medium",
+    "High"
+  ],
+  "features": [
+    "destination_id",
+    "area",
+    "month_sin",
+    "month_cos",
+    "temperature_mean_c",
+    "precipitation_mm_month",
+    "wind_speed_kmh_mean"
+  ],
+  "excluded_features": [
+    "visitor_count",
+    "busyness_label (target only)",
+    "row_id",
+    "request_id",
+    "dataset_split",
+    "customer_chose_destination (target only)"
+  ],
+  "accuracy_above_80": false,
+  "limitations": [
+    "Synthetic generator performance; not real crowd or customer validation.",
+    "Monthly estimates, not exact daily occupancy.",
+    "New admin destinations use area-level model encoding; unvalidated on unseen places.",
+    "Demo weather uses training-only monthly averages, not a live forecast."
+  ]
+}

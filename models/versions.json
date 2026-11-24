@@ -1,0 +1,9 @@
+{
+  "python": "3.12.14",
+  "scikit_learn": "1.8.0",
+  "numpy": "2.3.5",
+  "pandas": "2.2.3",
+  "joblib": "1.5.3",
+  "data_sha256": "8093405ddbc492618d99dbba9a059ee73b03949b362e71864181616f4cf9c6e7",
+  "synthetic": true
+}

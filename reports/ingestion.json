@@ -1,0 +1,14 @@
+{
+  "rows": 14400,
+  "destinations": 20,
+  "unique_monthly_observations": 2400,
+  "sha256": "8093405ddbc492618d99dbba9a059ee73b03949b362e71864181616f4cf9c6e7",
+  "synthetic": true,
+  "duplicate_months_expected": true,
+  "splits": {
+    "train": 10080,
+    "test": 2880,
+    "validation": 1440
+  },
+  "unsupported_activity": "wildlife_birdwatching: no tagged destination in this catalog"
+}

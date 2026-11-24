@@ -1,0 +1,15 @@
+{
+  "desktop": true,
+  "mobile": true,
+  "cards": 20,
+  "boudhanathPhotos": 3,
+  "detailMap": true,
+  "predictionResults": 12,
+  "galleryInteraction": true,
+  "crowdFilter": true,
+  "accountRegistration": true,
+  "savedProfileTrip": true,
+  "browserErrors": [],
+  "street_tiles_verified": false,
+  "tile_fallback_verified": true
+}
